@@ -9,7 +9,7 @@ https://github.com/tuat-yate/AutoVisualAcuityTest/assets/56665094/eaedf213-e64e-
 ## Usage
 1. Clone this repository.
 2. Download Vosk LLM model `model_jp` from this link: https://alphacephei.com/vosk/models
-3. Unzip the downloaded file and move it to project home directory `~/`
+3. Unzip the downloaded file and move it to project home directory `AutoVisualAcuityTest/`
 4. Run the command `python3 main.py`
 
 ## Requirement
